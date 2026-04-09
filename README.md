@@ -97,3 +97,8 @@ En BEARISH, le satellite est immédiatement liquidé (`bearish_cut = True`). Le 
 - Volume minimum : 1M EUR/mois
 - Prix minimum : 3€
 - Période IS : 2007–2020 | Période OOS : 2021–2025
+
+## Code & données
+
+- Code : Code.ipynb
+- Données : Company_Info_EUR.csv.zip, EONIARATE.csv, Europe_5_Factors.txt, Market_Cap_EUR.csv.zip, STR.csv, Taux de change 
