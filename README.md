@@ -98,7 +98,8 @@ En BEARISH, le satellite est immédiatement liquidé (`bearish_cut = True`). Le 
 - Prix minimum : 3€
 - Période IS : 2007–2020 | Période OOS : 2021–2025
 
-## Code & données
+## Code, données & graphiques
 
 - Code : Code.ipynb
-- Données : Company_Info_EUR.csv.zip, EONIARATE.csv, Europe_5_Factors.txt, Market_Cap_EUR.csv.zip, STR.csv, Taux de change 
+- Données : Company_Info_EUR.csv.zip, EONIARATE.csv, Europe_5_Factors.txt, Market_Cap_EUR.csv.zip, STR.csv, Taux de change
+- Graphiques : equity_curves.png, metrics_compariso_global.png
