@@ -2,7 +2,7 @@
 
 ## Le problème
 
-Vous êtes gérant de portefeuille en 2007, convaincu que la prime value existe. Elle a été documentée, jugée robuste et répliquée sur plusieurs décennies de données. Vous investissez. Treize ans plus tard, vous sous-performez encore. C'est la **Value Lost Decade** : taux ultra-bas qui favorisent les actions growth, montée des méga-caps tech, ratio Book-to-Market de moins en moins pertinent dans une économie d'actifs incorporels.
+Vous êtes gérant.e de portefeuille en 2007, convaincu.e que la prime value existe. Elle a été documentée, jugée robuste et répliquée sur plusieurs décennies de données. Vous investissez. Treize ans plus tard, vous sous-performez encore. C'est la **Value Lost Decade** : taux ultra-bas qui favorisent les actions growth, montée des méga-caps tech, ratio Book-to-Market de moins en moins pertinent dans une économie d'actifs incorporels.
 
 La prime value n'est pas morte, mais l'approche passive a montré ses limites.
 
